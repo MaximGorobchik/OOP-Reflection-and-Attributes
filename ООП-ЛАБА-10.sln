@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ООП-ЛАБА-10", "ООП-ЛАБА-10\ООП-ЛАБА-10.csproj", "{27214624-B126-47D4-8E45-47A0150781FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 2. Black Box Integer", "Problem 2. Black Box Integer\Problem 2. Black Box Integer.csproj", "{BE2946F8-CB81-4898-9C4C-6B48A20E98C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 3. BarracksWars - A New Factory", "Problem 3. BarracksWars - A New Factory\Problem 3. BarracksWars - A New Factory.csproj", "{6E2949A0-2DA0-40A8-BCBF-9CDF65FDF277}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 4. BarracksWars - The Commands Strike Back", "Problem 4. BarracksWars - The Commands Strike Back\Problem 4. BarracksWars - The Commands Strike Back.csproj", "{BEBCBC72-AC3E-4299-8374-38268200DEA1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Problem 6. Traffic Lights", "Problem 6. Traffic Lights\Problem 6. Traffic Lights.csproj", "{BEEB227C-2DAD-40C2-A355-C225E5A18D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 7. . Inferno Infinity", "Problem 7. . Inferno Infinity\Problem 7. . Inferno Infinity.csproj", "{B9339CCE-53B7-41FC-B487-67F8AFA6F07D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27214624-B126-47D4-8E45-47A0150781FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27214624-B126-47D4-8E45-47A0150781FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27214624-B126-47D4-8E45-47A0150781FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27214624-B126-47D4-8E45-47A0150781FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2946F8-CB81-4898-9C4C-6B48A20E98C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2946F8-CB81-4898-9C4C-6B48A20E98C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2946F8-CB81-4898-9C4C-6B48A20E98C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2946F8-CB81-4898-9C4C-6B48A20E98C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2949A0-2DA0-40A8-BCBF-9CDF65FDF277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2949A0-2DA0-40A8-BCBF-9CDF65FDF277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2949A0-2DA0-40A8-BCBF-9CDF65FDF277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2949A0-2DA0-40A8-BCBF-9CDF65FDF277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBCBC72-AC3E-4299-8374-38268200DEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBCBC72-AC3E-4299-8374-38268200DEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBCBC72-AC3E-4299-8374-38268200DEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBCBC72-AC3E-4299-8374-38268200DEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEEB227C-2DAD-40C2-A355-C225E5A18D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEEB227C-2DAD-40C2-A355-C225E5A18D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEEB227C-2DAD-40C2-A355-C225E5A18D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEEB227C-2DAD-40C2-A355-C225E5A18D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9339CCE-53B7-41FC-B487-67F8AFA6F07D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9339CCE-53B7-41FC-B487-67F8AFA6F07D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9339CCE-53B7-41FC-B487-67F8AFA6F07D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9339CCE-53B7-41FC-B487-67F8AFA6F07D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {937052BD-F1E5-4418-A46C-34AAABF1465B}
+	EndGlobalSection
+EndGlobal
